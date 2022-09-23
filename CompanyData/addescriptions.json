@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "632c08e6d49f263e9405945b"
+  },
+  "company_id": "1",
+  "primary_text": "We like where you’re going with this.",
+  "headline": "Livis Relaxed Fit Men's Jeans",
+  "description": "Flat 70% OFF",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_1098850614360880_7719182279313061464_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cf96c8&_nc_ohc=y0IRCnVjgnAAX8Vz5rJ&_nc_ht=scontent-lax3-2.xx&oh=00_AT-6MIPQ__gu4AosQBPinBW71pjMZHjJ14d7X2xhty19mw&oe=63007FD1"
+},{
+  "_id": {
+    "$oid": "632c0b5dd49f263e9405945e"
+  },
+  "company_id": "1",
+  "primary_text": "We like where you’re going with this.",
+  "headline": "LEVIS CLOTHING PERFORMANCE ADVANCED STRETCH",
+  "description": "Flat 50% OFF",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632c0b98d49f263e94059460"
+  },
+  "company_id": "1",
+  "primary_text": "We like where you’re going with this.",
+  "headline": "Livis MADE WITH RECYCLED PLASTIC",
+  "description": "Flat 20% OFF",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632c0bded49f263e94059462"
+  },
+  "company_id": "1",
+  "primary_text": "We like where you’re going with this.",
+  "headline": "LIVIS NEW FASHION",
+  "description": "Flat 10% OFF",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632c633109c0fe17937fbdb5"
+  },
+  "company_id": "2",
+  "primary_text": "Your Greatest Run Ever.",
+  "headline": "Adidas is all in",
+  "description": "Own your game",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_1098850614360880_7719182279313061464_n.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=cf96c8&_nc_ohc=y0IRCnVjgnAAX8Vz5rJ&_nc_ht=scontent-lax3-2.xx&oh=00_AT-6MIPQ__gu4AosQBPinBW71pjMZHjJ14d7X2xhty19mw&oe=63007FD1"
+},{
+  "_id": {
+    "$oid": "632d7508858a0562b64417b1"
+  },
+  "company_id": "2",
+  "primary_text": "Your Greatest run Ever",
+  "headline": "Adidas Never Follow",
+  "description": "adidas AG (adidas) designs, manufactures and markets athletic and sports lifestyle products",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632d7696858a0562b64417b7"
+  },
+  "company_id": "3",
+  "primary_text": "We like this.",
+  "headline": "Netflix provides internet entertainment services",
+  "description": "Netflix Inc (Netflix) provides internet entertainment services for watching movies and television shows",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632d76d5858a0562b64417b9"
+  },
+  "company_id": "3",
+  "primary_text": "We like netflix.",
+  "headline": "Netflix services",
+  "description": "Netflix Inc (Netflix) provides internet entertainment services for watching movies and television shows",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632d7776858a0562b64417bf"
+  },
+  "company_id": "4",
+  "primary_text": "We like Nike.",
+  "headline": "Nike  American multinational corporation",
+  "description": "Nike, Inc is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide ",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632d77ba858a0562b64417c1"
+  },
+  "company_id": "4",
+  "primary_text": " Nike.",
+  "headline": "Nike  design, development, manufacturing",
+  "description": "Nike, Inc is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide ",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+},{
+  "_id": {
+    "$oid": "632d784a858a0562b64417c7"
+  },
+  "company_id": "5",
+  "primary_text": "We like American diversified company.",
+  "headline": "Colgate American diversified company",
+  "description": "Colgate-Palmolive Company, American diversified company that manufactures",
+  "cta": "Shop Now",
+  "image_url": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.35426-6/297056300_109885061…"
+}]

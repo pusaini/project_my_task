@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "632c064fd49f263e94059455"
+  },
+  "company_id": "1",
+  "company_name": "levis",
+  "company_url": "levis.com"
+},{
+  "_id": {
+    "$oid": "632c0662d49f263e94059457"
+  },
+  "company_id": "2",
+  "company_name": "adidas",
+  "company_url": "adidas.com"
+},{
+  "_id": {
+    "$oid": "632c976dd49f263e9405946b"
+  },
+  "company_id": "3",
+  "company_name": "netflix",
+  "company_url": "netflix.com"
+},{
+  "_id": {
+    "$oid": "632c978dd49f263e9405946d"
+  },
+  "company_id": "4",
+  "company_name": "nike",
+  "company_url": "nike.com"
+},{
+  "_id": {
+    "$oid": "632c97b7d49f263e9405946f"
+  },
+  "company_id": "5",
+  "company_name": "colgate",
+  "company_url": "colgate.com"
+}]
